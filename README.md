@@ -1,18 +1,26 @@
-# React Tasks
+Calculator
+---
+<img src="Logotype primary.png" width="60%" height="60%" />
 
-This is a React client side application, to practice basic concepts of React and Javascript
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Screenshoot
 
-![](screenshot.jpg)
 
-## Mockup
+Try It
+---
 
-![](mockup.png)
+[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
 
-## Social Accounts:
 
-- Web: https://faztweb.com
-- Blog: https://blog.faztweb.com
-- Facebook: https://facebook.com/Fazttech
-- Twitter: https://twitter.com/fazttech
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
